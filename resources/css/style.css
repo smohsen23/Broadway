@@ -34,8 +34,7 @@ h2 {
 
 .info {
   text-align: center;
-  color:gray;
-
+  
 }
 
 .info p {
@@ -64,11 +63,12 @@ h2 {
   height:20px;
   text-align:left;
   color:white;
-  font-size: 18px;
+  font-size: 11px;
 }
 
 .link {
     color:white;
     background-color: transparent;
     text-decoration: underline;
+    font-size: 18px;
 }
